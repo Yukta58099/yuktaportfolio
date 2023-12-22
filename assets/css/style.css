@@ -220,7 +220,7 @@ h6 {
 
 /* Mobile Navigation */
 .mobile-nav-toggle {
-  position: fixed;
+  position: relative;
   right: 15px;
   top: 15px;
   z-index: 9998;
