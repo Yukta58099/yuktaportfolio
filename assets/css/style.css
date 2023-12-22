@@ -6,6 +6,8 @@
 body {
   font-family: "Open Sans", sans-serif;
   color: #272829;
+  margin:0;
+  padding:0;
 }
 
 #resumelink{
